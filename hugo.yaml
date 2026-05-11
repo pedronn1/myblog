@@ -1,0 +1,4 @@
+baseURL: 'http://localhost:1313/'
+Language.Direction: "pt-br"
+title: 'Neto Codes'
+theme: 'PaperMod'

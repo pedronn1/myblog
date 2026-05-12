@@ -1,4 +1,5 @@
-baseURL: 'http://localhost:1313/'
-Language.Direction: "pt-br"
-title: 'Neto Codes'
-theme: 'PaperMod'
+baseURL: "https://pedronn1.github.io/myblog/"
+title: "Neto Codes"
+theme: "PaperMod"
+
+defaultContentLanguage: "pt-br"

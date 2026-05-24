@@ -1,0 +1,23 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[submodule "themes/PaperMod"]
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+	active = true
+[remote "origin"]
+	url = https://github.com/pedronn1/myblog
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+	vscode-merge-base = origin/main
+
+baseURL: "https://pedronn1.github.io/myblog/"
+title: "Neto Codes"
+theme: "PaperMod"
+relativeURLs: true
+canonifyURLs: true
